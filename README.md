@@ -1,4 +1,4 @@
-# toy_ds_name
+# toy_ds_project
 
 Project creation date: October 5,2024 
 author: Eisner Sy
